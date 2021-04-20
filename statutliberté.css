@@ -1,0 +1,244 @@
+.center1
+{
+	text-align:center;
+   padding:5px;
+}
+
+
+.center2
+{
+	text-align:center;
+     padding:5px;
+}
+
+
+.center3
+{
+	text-align:center;
+    padding:5px;
+}
+
+.center4
+{
+	text-align:center;
+	padding:5px;
+
+}
+
+nav
+{
+	width: 1300px;
+}
+
+
+.menur
+{
+	
+	height:30px;
+ }
+
+ 
+
+footer
+{
+	/*background-color:black;*/
+		width: 1300px;
+	background-color: #424558;
+	padding:5px;
+	border-top:1px black solid;
+}
+
+footer nav 
+{
+	
+	width: 100%;
+	background-color: white;
+}
+
+nav .effacer-puce  li
+{
+	display: block;
+	list-style-type: none;  /*effacer les puces de l'éléments list;  */
+
+}
+
+
+footer p
+{
+	text-align: center;
+	color: white;
+}
+
+
+
+.cl       
+{
+	font color:white;
+}
+
+#ipt 
+{
+	border-bottom: 1px gray solid;
+	text-align:center;
+
+}
+
+#ipt1
+{
+	border-bottom: 1px gray solid;
+	background-color: gray;
+}
+
+
+#ipt2
+{
+	background-color: lightyellow;
+	margin:50px;
+	
+	text-align:center;
+    
+}
+
+
+.ipt3
+{
+	background-color: teal;   /*  lightsteelblue */
+	min-width: 900px;
+	width:1050px;
+	margin-left: 90px;
+	padding: 5px;
+	
+	text-align:center;
+  
+}
+
+
+.ipt3 img
+{
+	width:500px;
+	text-align:center;
+  
+}
+
+.ipt3 .img-block
+{
+	width: 200px;
+	text-align: center;
+
+}
+
+.ipt3 .img-block00
+{
+	width: 600px;
+	text-align: center;
+
+}
+
+.ipt3 .img-block1
+{
+	width: 283px;
+	text-align: center;
+
+}
+
+.ipt3 .img-block2
+{
+	width: 200px;
+	text-align: center;
+
+}
+.ipt3 .img-block3
+{
+	width:215px;
+	text-align: center;
+
+}
+.ipt3 .img-block4
+{
+	width:107px;
+	text-align: center;
+
+}
+
+.ipt3 .img-block05
+{
+	width:400px;
+	text-align: center;
+
+}
+
+
+
+.p1
+{
+	text-align: center;
+	border:1px black solid;
+
+}
+
+
+a:hover
+{
+  color:red;
+  text-decoration:    underline; 
+
+}
+
+a
+{
+	text-decoration: none;
+}
+
+
+
+#space
+{
+	background-color: ; /* red*/
+	min-width: 60px;
+	width:800px;
+	text-align: justify;
+    padding: 5px;
+    margin-left: 130px;
+}
+
+/*---
+#space button
+{
+	background-color:lightyellow ; /* red 
+	
+	width:0px auto;
+	text-align: center;
+    padding: 5px;
+    left: 570px;
+    position: absolute;
+    transform: translateY(-29%);
+    border-radius: 15px;
+}  ---                                            */
+
+.title-statueliberté h1
+{
+	text-align: center;
+	font-size: 49px;
+	width: 1200px;
+	min-width: 1000px
+	margin-left: 100px;
+	font-family: serif,forte,arial;
+	background-color:; /* pink*/
+}
+
+.title-statueliberté p
+{
+	background-color: ;/* red*/
+	min-width: 60px;
+	width:600px;
+	text-align: justify;
+    padding: 5px;
+    margin-left: 310px;
+	font-family: serif,forte,arial;
+}
+
+body
+{
+	background-color:  lightsteelblue;  /* teal*/
+	
+}
